@@ -28,3 +28,5 @@ WAIVER OF ALL PENALTIES, LOSSES, AND CLAIMS ON USE:
 
 Since the Programmer, during testing, nor the User, during testing, can control the content, by design, no one can claim losses under any type of tort law or action. You agree that this means that someone else can post "production" material on a "test" system without the ability for the Operator to control. This, of course, has no effect on enforcement of laws by appropriate officials but does cover losses and tort. Under the legal framework of the United States of America (US), you agree that the production, dissemination, possession, and communication of this Project's Code is covered under the First Amendment of the US Constitution. Furthermore, it is agreed to by all parties where this contract can legally bind upon, that any operation of this site is covered under the protections provided by laws that refer to the protections of Internet Service Providers (ISPs) from the illegal actions of it's users.
 
+#Incorporation with GNU License 3.0
+Beyond the aforementioned, the terms of the GNU License, found at http://www.gnu.org/licenses/gpl-3.0.en.html, will apply.
